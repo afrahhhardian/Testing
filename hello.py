@@ -1,2 +1,3 @@
 print('hello')
-print('afrahhardian')
+print('afrah')
+print('zahra')
